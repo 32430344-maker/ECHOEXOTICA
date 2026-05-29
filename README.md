@@ -83,7 +83,7 @@ src/
 └── Navbar.css
 🚀 Installation
 1. Clone the repository
-git clone https://github.com/your-username/echoexotica.git
+git clone (https://github.com/32430344-maker/ECHOEXOTICA.git)
 2. Open the project
 cd echoexotica
 3. Install dependencies
